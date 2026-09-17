@@ -17,7 +17,7 @@ learning artifact:
 
 ------------------------------------------------------------------------
 
-## Application Overview
+### Application Overview
 
 Simple Wallet is a command-line digital banking simulator.
 
@@ -41,8 +41,7 @@ The application uses domain-driven design concepts:
 
 ## Architecture
 
-The project follows **Clean Architecture (Hexagonal / Ports &
-Adapters)**.
+The project follows **Clean Architecture (Ports & Adapters)**.
 
 ``` text
 Presentation Layer
